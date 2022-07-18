@@ -3,7 +3,7 @@
 
 # MADRL-for-Taxi-Fleet-Management
 
-This is the code repository for 'Weather and Seasonal Effects on Medium Voltage Underground Cable Joint Failures' paper we will provide the link to the paper soon.
+This is the code repository for 'Weather and Seasonal Effects on Medium Voltage Underground Cable Joint Failures' paper. We will provide the link to the paper soon.
 
 ## Code Structure 
 1. Features and Clusters : containes that code that implements the Weather Feature Selection and K-means Clustering. 
