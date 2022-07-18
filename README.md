@@ -49,7 +49,7 @@ The code the written in python and  following Libraries are required.
 ## Plots  
 
 ### Feature Selection
-![Feature Selection](https://github.com/mohd-alhussin/Weather-and-Seasonal-Effects-on-Underground-Cable-Failures-Data-Driven-Approach/blob/main/Features.png)
+![Feature Selection](https://github.com/mohd-alhussin/Weather-and-Seasonal-Effects-on-Underground-Cable-Failures-Data-Driven-Approach/blob/main/ODDs.png)
 
 ### Clustering
 ![Clustering](https://github.com/mohd-alhussin/Weather-and-Seasonal-Effects-on-Underground-Cable-Failures-Data-Driven-Approach/blob/main/Clusters.png)
