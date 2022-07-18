@@ -38,8 +38,8 @@ The code the written in python and  following Libraries are required.
 	* Matplotlib
 	* seaborn
 	* Prophet
-  * sklearn
-  * pandas
+	* sklearn
+	* pandas
 
 
 
