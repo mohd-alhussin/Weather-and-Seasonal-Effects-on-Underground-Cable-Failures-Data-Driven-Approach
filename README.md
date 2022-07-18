@@ -56,9 +56,6 @@ The code the written in python and  following Libraries are required.
  
 ### Forecasting 
 ![Facbook Prophet Model](https://github.com/mohd-alhussin/Weather-and-Seasonal-Effects-on-Underground-Cable-Failures-Data-Driven-Approach/blob/main/Forecast.png)
-### Learning Curves 
-![](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Learning_Curves.png)
-
 
 
 
